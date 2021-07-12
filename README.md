@@ -1,3 +1,3 @@
 # my-tools
 Generic Java Tools
-https://hub.docker.com/repository/docker/saneeshps/my-tools
+https://hub.docker.com/r/saneeshps/my-tools
